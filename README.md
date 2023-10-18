@@ -1,16 +1,16 @@
-### Hi there 👋
-
-<!--
-**ashyx-xy/ashyx-xy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there, I am Ash 👋
+```
+const character = {
+  race: "high elf",
+  class: "rogue",
+  pronouns: "she" | "her",
+  weapons: [Python, Go, Javascript, C++],
+  tools: [docker, git, nuclei, burpsuite, metasploit, autopsy, volatility, wireshark, suricata, snort],
+  categories: ["forensics", "web", "networks"],
+  communities: {
+                        participant: "Russian CTF community",
+                        worker: "PT"
+                      },
+ goal: "code, hack and travel"
+}
+```
